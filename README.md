@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Java Spring Boot**
 
-- 💬 Ask me about **Product Design**
+- 💬 Ask me about **Cooking**
 
 - 📫 How to reach me **wanpin77@gmail.com**
 
