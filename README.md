@@ -3,9 +3,9 @@
     A passionate full-stack developer living in Dublin<br><br>
     2012-2014: Worked as a UI designer with skills in photography and Photoshop<br>
     2014-2022: Served as a Product Manager in various Internet companies, collaborating across diverse teams<br>
-    2022-2023: Pursued a Higher Diploma in Computer Science at the National College of Ireland<br>
+    2022-2023: Pursued a Higher Diploma in Computer Science at the NCI<br>
     2023-2024: Took a gap year, working as a health support carer<br>
-    2024-2025: Studying for a Master’s in Artificial Intelligence at the National College of Ireland
+    2024-2025: Studying for a Master’s in Artificial Intelligence at the NCI
 </p>
 
 
