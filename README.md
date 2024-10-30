@@ -6,7 +6,7 @@
 - 💬 Ask me about **Cooking**
 - 📫 How to reach me **wanpin77@gmail.com**
 - 👉 Connect with me: <a href="https://linkedin.com/in/wanpincai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wanpincai" height="16" width="24" /></a>
- <a href="https://x.com/WanpinCai" target="blank"><img align="center" src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="wanpincai" height="16" width="24" /></a>
+ <a href="https://x.com/WanpinCai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wanpincai" height="16" width="24" /></a>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=wanpin2023&label=Profile%20views&color=0e75b6&style=flat" alt="wanpin2023" /> </p> -->
 
